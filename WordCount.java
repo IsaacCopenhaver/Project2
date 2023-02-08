@@ -1,6 +1,7 @@
 import java.io.File;
 import java.util.Scanner;
-public class Main{
+import java.util.ArrayList;
+public class WordCount{
     public static void main(String[] args){
     
     }
